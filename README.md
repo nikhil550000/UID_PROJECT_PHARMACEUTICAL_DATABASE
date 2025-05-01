@@ -4,7 +4,7 @@
 
 This project implements a user interface for managing the data of a pharmaceutical company. It has features for secure login, registration, data viewing, and updates.
 
-## 📑  Table of Contents
+## 📑  Table of ContentsN
 
 - [✨ Features](#features)
 - [👥 User Roles](#user-roles)
@@ -132,7 +132,7 @@ This project implements a user interface for managing the data of a pharmaceutic
 ### 🗃️ Database 
 - Postgre SQL
 
-## Setup & Installation
+## ⚙️ Setup & Installation
 
 1. Clone the repository
    bash
@@ -141,13 +141,13 @@ This project implements a user interface for managing the data of a pharmaceutic
 2. Open index.html in your browser or serve via local HTTP server
 3. Customize configuration as needed
 
-## Usage
+## 🚀 Usage
 
 - Navigate to homepage to register or login as company user
 - Use navigation bar to access different sections
 - Search medicines using the search bar
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create a feature branch (git checkout -b feature-name)
@@ -155,6 +155,6 @@ This project implements a user interface for managing the data of a pharmaceutic
 4. Push to branch (git push origin feature-name)
 5. Open a Pull Request
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License. Please take a look at the [LICENSE](LICENSE) file for details.
