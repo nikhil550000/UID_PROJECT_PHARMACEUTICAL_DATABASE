@@ -30,9 +30,52 @@ This project implements a user interface for managing the data of a pharmaceutic
 - Dynamic data filtering via search
 - Responsive design for all device sizes
 
+
 ## User Roles
 
 | Role         | Access                                              |
 |--------------|-----------------------------------------------------|
 | Company User | Registration, login, view/update medicines, suppliers, dashboards |
 | General User | View-only access to public sections                 |
+
+## User Interface
+
+### Login Page
+
+- *Company User Login* button on the homepage
+- CSS hover effects:
+  - Color change on hover
+  - Cursor changes to pointer
+  - Smooth transition animation
+- Redirects to a page with *Register* and *Login* buttons
+
+### Company User - Register Page
+
+- *Registration Form* fields:
+  - Employee ID (text input)
+  - Password (password input)
+  - Retype Password (password input)
+  - Register (submit button)
+- *JavaScript validation*:
+  - All fields required
+  - Password and retype must match
+  - Visual feedback for errors (red borders, alert messages)
+- *CSS styling*:
+  - Button hover effects
+  - Styled error messages
+  - Input focus outlines for accessibility
+
+### Company User - Login Page
+
+- *Login Form* fields:
+  - Employee ID
+  - Password
+  - Reset Password link/button
+- *JavaScript functionality*:
+  - Non-empty input validation
+  - Error messages on invalid login
+  - Password recovery modal or section
+- *CSS styling*:
+  - Consistent layout with register page
+  - Responsive design with flexbox/grid
+  - Animated show/hide transitions
