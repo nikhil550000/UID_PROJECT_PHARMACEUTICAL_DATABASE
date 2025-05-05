@@ -4,7 +4,7 @@
 
 This project implements a user interface for managing the data of a pharmaceutical company. It has features for secure login, registration, data viewing, and updates.
 
-## 📑  Table of ContentsN
+## 📑  Table of Contents
 
 - [✨ Features](#features)
 - [👥 User Roles](#user-roles)
